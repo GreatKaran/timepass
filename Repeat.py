@@ -1,7 +1,5 @@
 import time
 import webbrowser 
 link = input("Link de BSDK")
-while(0 == 0):
-  print("made by @phoenixop7")
-  webbrowser.open(link)
+  webbrowser.open("www.facebook.com" , new=2)
   time.sleep(10)
