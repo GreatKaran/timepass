@@ -1,5 +1,6 @@
 import time
-import webbrowser 
+import webbrowser
+import os
 link = input("Link de BSDK")
 while(0 == 0):
  webbrowser.open(link , new=2)
