@@ -1,5 +1,5 @@
 import time
 import webbrowser 
 link = input("Link de BSDK")
-  webbrowser.open("www.facebook.com" , new=2)
-  time.sleep(10)
+webbrowser.open("www.facebook.com" , new=2)
+
