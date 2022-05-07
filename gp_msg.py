@@ -5,13 +5,12 @@ from telethon.tl.functions.channels import JoinChannelRequest
 from telethon. tl. functions.messages import ImportChatInviteRequest
     
 ###python without telthon by @Phoenixop7 
-#upgraded by adding telthon evil beast(@elbeastz)
-#dont dlt my credts plz###
+#upgraded by adding telthon evil beast(@elbeastz)#dont dlt my credts plz###
 f = []
 
 
-api_id = 8199692
-api_hash = "e9bcb9bbc0c1d181eb38cb944725be31"
+api_id = 7292479
+api_hash = "09167231f28146e88ecf0bb80b4e6192"
 bot_token = '5249924297:AAFYY416XIm7RbJz92s0_M0C-4G1NKgUYwo'
 
 client = TelegramClient('bot', api_id, api_hash).start(bot_token=bot_token)
