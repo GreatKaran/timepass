@@ -11,7 +11,7 @@ f = []
 
 api_id = 7292479
 api_hash = "09167231f28146e88ecf0bb80b4e6192"
-bot_token = '5249924297:AAFYY416XIm7RbJz92s0_M0C-4G1NKgUYwo'
+bot_token = '5365084582:AAGm49CZLGYbwm0aIBMeyGZALyGci5oOpTg'
 
 client = TelegramClient('bot', api_id, api_hash).start(bot_token=bot_token)
 name = "Evil Beast"
